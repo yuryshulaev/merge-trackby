@@ -1,0 +1,17 @@
+{
+  "name": "merge-trackby",
+  "description": "In-place deep merge library with array reordering support",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "merge",
+    "recursive",
+    "deep",
+    "trackby",
+    "json"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
